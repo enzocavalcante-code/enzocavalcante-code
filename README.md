@@ -2,7 +2,9 @@
   <img src="assets/banner.png" alt="Paisagem em preto e branco com uma torre de observação entre montanhas e pinheiros" width="100%">
 </p>
 
-<h1 align="center">Enzo Cavalcante</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=ENZO+CAVALCANTE" alt="Enzo Cavalcante">
+</p>
 
 <p align="center"><code>&gt;_ ­Full Stack Development Student</code></p>
 
