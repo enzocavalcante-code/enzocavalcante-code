@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/enzocavalcante"><img src="assets/badge-linkedin.svg" alt="LinkedIn"></a>
   <a href="mailto:enzocavalcanteprofissional@gmail.com"><img src="assets/badge-gmail.svg" alt="Gmail"></a>
 </p>
-<br>
 
 ### 🚀 Sobre mim
 
