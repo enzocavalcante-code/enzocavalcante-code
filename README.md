@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=ENZO+CAVALCANTE" alt="ENZO CAVALCANTE">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Enzo+Cavalcante" alt="ENZO CAVALCANTE">
 </p>
 
 <p align="center"><code>&gt;_ ­Full Stack Development Student</code></p>
