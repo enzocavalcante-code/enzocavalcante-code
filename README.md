@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner4.png" alt="Paisagem em preto e branco com uma torre de observação entre montanhas e pinheiros" width="110%">
+</p>
 <p align="center"><code>&gt;_ ­Full Stack Development Student</code></p>
 
 <p align="center">
