@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/enzocavalcante-code"><img src="assets/badge-github.svg" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="assets/badge-linkedin.svg" alt="LinkedIn"></a>
-  <a href="mailto:SEU_EMAIL"><img src="assets/badge-gmail.svg" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/enzocavalcante"><img src="assets/badge-linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:enzocavalcanteprofissional@gmail.com"><img src="assets/badge-gmail.svg" alt="Gmail"></a>
 </p>
 
 <p align="center">Building reliable backend systems with clean architecture and scalable solutions.</p>
@@ -61,8 +61,8 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzocavalcante-code&show_icons=true&hide_border=true&border_radius=6&bg_color=0A0A0A&title_color=FFFFFF&text_color=8A8A8A&icon_color=FFFFFF&ring_color=FFFFFF" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzocavalcante-code&layout=compact&langs_count=8&hide_border=true&border_radius=6&bg_color=0A0A0A&title_color=FFFFFF&text_color=8A8A8A" alt="Linguagens mais usadas">
+  <img src="assets/stats.svg" width="49%" alt="Estatísticas do GitHub">
+  <img src="assets/langs.svg" width="49%" alt="Linguagens mais usadas">
 </p>
 
 ### 📈 Activity Graph
