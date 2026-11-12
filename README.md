@@ -2,7 +2,7 @@
   <img src="assets/banner2.jpg" alt="Paisagem em preto e branco com uma torre de observação entre montanhas e pinheiros" width="110%">
 </p>
 
-<p align="center" height=1000px><code>&gt;_ ­Full Stack Development Student</code></p>
+<p align="center"><code>&gt;_ ­Full Stack Development Student</code></p>
 
 <p align="center">
   <a href="https://github.com/enzocavalcante-code"><img src="assets/badge-github.svg" alt="GitHub"></a>
