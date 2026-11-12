@@ -15,7 +15,7 @@ Construindo sistemas  confiáveis, com arquitetura limpa e soluções escalávei
 
 <br>
 
-### 🚀 Sobre mim
+### 🚀 About me
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/about-light.png">
