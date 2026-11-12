@@ -2,9 +2,9 @@
   <img src="assets/banner.png" alt="Paisagem em preto e branco com uma torre de observação entre montanhas e pinheiros" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, Imma Shady</h1>
+<h1 align="center">Enzo Cavalcante</h1>
 
-<p align="center"><code>&gt;_ Backend Developer</code></p>
+<p align="center"><code>&gt;_ ­Full Stack Development Student</code></p>
 
 <p align="center">
   <a href="https://github.com/enzocavalcante-code"><img src="assets/badge-github.svg" alt="GitHub"></a>
@@ -12,28 +12,25 @@
   <a href="mailto:enzocavalcanteprofissional@gmail.com"><img src="assets/badge-gmail.svg" alt="Gmail"></a>
 </p>
 
-<p align="center">Building reliable backend systems with clean architecture and scalable solutions.</p>
+<p align="center">
+Construindo sistemas  confiáveis, com arquitetura limpa e soluções escaláveis.</p>
 
 <br>
 
-### 🚀 About Me
+### 🚀 Sobre mim
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/about-light.png">
   <img src="assets/about-dark.png" alt="Desenho em pontilhado" width="340" align="right">
 </picture>
 
-**Shaddy**, Here — a final-year Computer Engineering student focused on backend development.
+**Enzo**, Aqui, sou um estudante do ultimo ano no curso técnico em desenvolvimento de sistemas.
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
-
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
-
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+////
 
 <br clear="right">
 
-### 💻 Tech Stack
+### 💻 Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">&nbsp;
@@ -54,7 +51,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 <br>
 
-### 📊 Statistics
+### 📊 Status
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=enzocavalcante-code&hide_border=true&border_radius=6&background=0A0A0A&stroke=2A2A2A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8A8A8A&dates=6A6A6A" alt="Sequência de contribuições">
@@ -65,7 +62,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   <img src="assets/langs.svg" width="49%" alt="Linguagens mais usadas">
 </p>
 
-### 📈 Activity Graph
+### 📈 Gráfico de atividade
 
 <p align="center">
   <picture>
