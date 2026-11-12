@@ -37,7 +37,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"></a>
+  <a href="https://github.com/enzocavalcante-code"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
   <a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"></a>
 </p>
@@ -45,27 +45,33 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="44" alt="JavaScript">
-  <img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub">
-  <img src="https://skillicons.dev/icons?i=git" height="44" alt="Git">
-  <img src="https://skillicons.dev/icons?i=css" height="44" alt="CSS">
-  <img src="https://skillicons.dev/icons?i=html" height="44" alt="HTML">
-  <img src="assets/sql.png" height="44" alt="SQL">
-  <img src="https://skillicons.dev/icons?i=py" height="44" alt="Python">
-  <img src="https://skillicons.dev/icons?i=postgres" height="44" alt="PL/pgSQL">
-  <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VS Code">
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" height="44" alt="Claude">
-  <img src="https://skillicons.dev/icons?i=cpp" height="44" alt="C++">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript">&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub">
+  </picture>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML">&nbsp;
+  <img src="assets/sql.png" width="42" height="42" alt="SQL">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PL/pgSQL">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code">&nbsp;
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" width="42" height="42" alt="Claude">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++">
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&border_radius=6&background=161B22&stroke=30363D&ring=8B9BB4&fire=8B9BB4&currStreakNum=C9D1D9&sideNums=8B9BB4&currStreakLabel=8B9BB4&sideLabels=6E7681&dates=6E7681" alt="Estatísticas do GitHub">
+  <img src="https://streak-stats.demolab.com?user=enzocavalcante-code&hide_border=true&border_radius=6&background=161B22&stroke=30363D&ring=8B9BB4&fire=8B9BB4&currStreakNum=C9D1D9&sideNums=8B9BB4&currStreakLabel=8B9BB4&sideLabels=6E7681&dates=6E7681" alt="Estatísticas do GitHub">
 </p>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=161B22&color=C9D1D9&title_color=C9D1D9&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=true&radius=6" alt="Gráfico de atividade" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+    <img src="assets/activity-dark.svg" alt="Gráfico de contribuições dos últimos 31 dias" width="100%">
+  </picture>
 </p>

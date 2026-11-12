@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" rx="6" fill="#161B22"/>
+<text x="600.0" y="38" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#C9D1D9">enzocavalcante-code's Contribution Graph</text>
+<line x1="80" y1="350.0" x2="1160" y2="350.0" stroke="#30363D" stroke-width="1"/>
+<text x="68" y="354.0" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">0</text>
+<line x1="80" y1="294.0" x2="1160" y2="294.0" stroke="#30363D" stroke-width="1"/>
+<text x="68" y="298.0" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">1</text>
+<line x1="80" y1="238.0" x2="1160" y2="238.0" stroke="#30363D" stroke-width="1"/>
+<text x="68" y="242.0" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">2</text>
+<line x1="80" y1="182.0" x2="1160" y2="182.0" stroke="#30363D" stroke-width="1"/>
+<text x="68" y="186.0" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">3</text>
+<line x1="80" y1="126.0" x2="1160" y2="126.0" stroke="#30363D" stroke-width="1"/>
+<text x="68" y="130.0" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">4</text>
+<line x1="80" y1="70.0" x2="1160" y2="70.0" stroke="#30363D" stroke-width="1"/>
+<text x="68" y="74.0" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">5</text>
+<line x1="80.0" y1="70" x2="80.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="80.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">12</text>
+<line x1="116.0" y1="70" x2="116.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="116.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">13</text>
+<line x1="152.0" y1="70" x2="152.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="152.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">14</text>
+<line x1="188.0" y1="70" x2="188.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="188.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">15</text>
+<line x1="224.0" y1="70" x2="224.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="224.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">16</text>
+<line x1="260.0" y1="70" x2="260.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="260.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">17</text>
+<line x1="296.0" y1="70" x2="296.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="296.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">18</text>
+<line x1="332.0" y1="70" x2="332.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="332.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">19</text>
+<line x1="368.0" y1="70" x2="368.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="368.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">20</text>
+<line x1="404.0" y1="70" x2="404.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="404.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">21</text>
+<line x1="440.0" y1="70" x2="440.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="440.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">22</text>
+<line x1="476.0" y1="70" x2="476.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="476.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">23</text>
+<line x1="512.0" y1="70" x2="512.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="512.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">24</text>
+<line x1="548.0" y1="70" x2="548.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="548.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">25</text>
+<line x1="584.0" y1="70" x2="584.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="584.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">26</text>
+<line x1="620.0" y1="70" x2="620.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="620.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">27</text>
+<line x1="656.0" y1="70" x2="656.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="656.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">28</text>
+<line x1="692.0" y1="70" x2="692.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="692.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">29</text>
+<line x1="728.0" y1="70" x2="728.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="728.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">30</text>
+<line x1="764.0" y1="70" x2="764.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="764.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">31</text>
+<line x1="800.0" y1="70" x2="800.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="800.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">1</text>
+<line x1="836.0" y1="70" x2="836.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="836.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">2</text>
+<line x1="872.0" y1="70" x2="872.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="872.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">3</text>
+<line x1="908.0" y1="70" x2="908.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="908.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">4</text>
+<line x1="944.0" y1="70" x2="944.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="944.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">5</text>
+<line x1="980.0" y1="70" x2="980.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="980.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">6</text>
+<line x1="1016.0" y1="70" x2="1016.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="1016.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">7</text>
+<line x1="1052.0" y1="70" x2="1052.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="1052.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">8</text>
+<line x1="1088.0" y1="70" x2="1088.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="1088.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">9</text>
+<line x1="1124.0" y1="70" x2="1124.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="1124.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">10</text>
+<line x1="1160.0" y1="70" x2="1160.0" y2="350" stroke="#30363D" stroke-width="1" opacity="0.5"/>
+<text x="1160.0" y="372" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8B949E">11</text>
+<text x="600.0" y="406" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#8B949E">Days</text>
+<text transform="translate(24 210.0) rotate(-90)" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#8B949E">Contributions</text>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#58A6FF" stop-opacity="0.35"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></linearGradient></defs>
+<polygon points="80.0,350 80.0,350.0 116.0,350.0 152.0,350.0 188.0,350.0 224.0,350.0 260.0,350.0 296.0,350.0 332.0,350.0 368.0,350.0 404.0,350.0 440.0,350.0 476.0,350.0 512.0,350.0 548.0,350.0 584.0,350.0 620.0,350.0 656.0,350.0 692.0,350.0 728.0,350.0 764.0,350.0 800.0,350.0 836.0,350.0 872.0,350.0 908.0,350.0 944.0,350.0 980.0,350.0 1016.0,350.0 1052.0,350.0 1088.0,350.0 1124.0,350.0 1160.0,294.0 1160.0,350" fill="url(#g)"/>
+<polyline points="80.0,350.0 116.0,350.0 152.0,350.0 188.0,350.0 224.0,350.0 260.0,350.0 296.0,350.0 332.0,350.0 368.0,350.0 404.0,350.0 440.0,350.0 476.0,350.0 512.0,350.0 548.0,350.0 584.0,350.0 620.0,350.0 656.0,350.0 692.0,350.0 728.0,350.0 764.0,350.0 800.0,350.0 836.0,350.0 872.0,350.0 908.0,350.0 944.0,350.0 980.0,350.0 1016.0,350.0 1052.0,350.0 1088.0,350.0 1124.0,350.0 1160.0,294.0" fill="none" stroke="#58A6FF" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="80.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-12: 0</title></circle>
+<circle cx="116.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-13: 0</title></circle>
+<circle cx="152.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-14: 0</title></circle>
+<circle cx="188.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-15: 0</title></circle>
+<circle cx="224.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-16: 0</title></circle>
+<circle cx="260.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-17: 0</title></circle>
+<circle cx="296.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-18: 0</title></circle>
+<circle cx="332.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-19: 0</title></circle>
+<circle cx="368.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-20: 0</title></circle>
+<circle cx="404.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-21: 0</title></circle>
+<circle cx="440.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-22: 0</title></circle>
+<circle cx="476.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-23: 0</title></circle>
+<circle cx="512.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-24: 0</title></circle>
+<circle cx="548.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-25: 0</title></circle>
+<circle cx="584.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-26: 0</title></circle>
+<circle cx="620.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-27: 0</title></circle>
+<circle cx="656.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-28: 0</title></circle>
+<circle cx="692.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-29: 0</title></circle>
+<circle cx="728.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-30: 0</title></circle>
+<circle cx="764.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-10-31: 0</title></circle>
+<circle cx="800.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-11-01: 0</title></circle>
+<circle cx="836.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-11-02: 0</title></circle>
+<circle cx="872.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-11-03: 0</title></circle>
+<circle cx="908.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-11-04: 0</title></circle>
+<circle cx="944.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-11-05: 0</title></circle>
+<circle cx="980.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-11-06: 0</title></circle>
+<circle cx="1016.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-11-07: 0</title></circle>
+<circle cx="1052.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-11-08: 0</title></circle>
+<circle cx="1088.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-11-09: 0</title></circle>
+<circle cx="1124.0" cy="350.0" r="4" fill="#58A6FF"><title>2026-11-10: 0</title></circle>
+<circle cx="1160.0" cy="294.0" r="4" fill="#58A6FF"><title>2026-11-11: 1</title></circle>
+</svg>
