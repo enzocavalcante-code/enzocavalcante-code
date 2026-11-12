@@ -16,7 +16,7 @@
   <img src="assets/about-dark.png" alt="Desenho em pontilhado" width="340" align="right">
 </picture>
 
-Sou o **Enzo**, um estudante do ultimo ano no curso técnico em desenvolvimento de sistemas.
+Sou o **Enzo**, um estudante do ultimo ano no curso técnico em desenvolvimento de sistemas na FIAP.
 
 ////
 
