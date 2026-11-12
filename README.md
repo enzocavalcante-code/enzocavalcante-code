@@ -18,7 +18,9 @@
 
 Sou o **Enzo**, um estudante do ultimo ano no curso técnico em desenvolvimento de sistemas na FIAP.
 
-////
+Sou estudante do 3º ano do curso técnico em Desenvolvimento Full Stack da FIAP School, em São Paulo. Meu interesse por tecnologia começou nos jogos, pois desde pequeno um dos meus hobbies sempre foi jogar. A partir disso, comecei a me interessar pela área e, hoje, busco aprender mais todos os dias sobre esse tema que transforma o nosso mundo atual e representa o nosso futuro.
+
+**Estou aberto a oportunidades de estágio!**
 
 <br clear="right">
 
