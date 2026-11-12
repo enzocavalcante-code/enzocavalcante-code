@@ -5,15 +5,15 @@
   </picture>
 </p>
 
-<h1 align="center">Hi 👋, Im Enzo Cavalcante</h1>
+<h1 align="center">Enzo Cavalcante</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">­Full Stack Development Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Just+Code+It" alt="Just Code It">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Coding" alt="Coding">
 </p>
 
-<p align="center">Building reliable backend systems with clean architecture and scalable solutions.</p>
+<p align="center">building reliable systems with clean architecture and scalable solutions.</p>
 
 ---
 
