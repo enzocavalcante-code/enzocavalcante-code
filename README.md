@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-    <img src="assets/banner-dark.png" alt="Duas mãos quase se tocando, em pontilhado, com uma janela entre os dedos" width="100%">
-  </picture>
+  <img src="assets/banner.png" alt="Paisagem em preto e branco com uma torre de observação entre montanhas e pinheiros" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, Imma Shady</h1>
@@ -10,9 +7,9 @@
 <p align="center"><code>&gt;_ Backend Developer</code></p>
 
 <p align="center">
-  <a href="https://github.com/enzocavalcante-code"><img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Gmail"></a>
+  <a href="https://github.com/enzocavalcante-code"><img src="assets/badge-github.svg" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="assets/badge-linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:SEU_EMAIL"><img src="assets/badge-gmail.svg" alt="Gmail"></a>
 </p>
 
 <p align="center">Building reliable backend systems with clean architecture and scalable solutions.</p>
@@ -60,12 +57,12 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 ### 📊 Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=enzocavalcante-code&hide_border=true&border_radius=6&background=161B22&stroke=30363D&ring=8B9BB4&fire=8B9BB4&currStreakNum=C9D1D9&sideNums=8B9BB4&currStreakLabel=8B9BB4&sideLabels=6E7681&dates=6E7681" alt="Sequência de contribuições">
+  <img src="https://streak-stats.demolab.com?user=enzocavalcante-code&hide_border=true&border_radius=6&background=0A0A0A&stroke=2A2A2A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8A8A8A&dates=6A6A6A" alt="Sequência de contribuições">
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzocavalcante-code&show_icons=true&hide_border=true&border_radius=6&bg_color=161B22&title_color=C9D1D9&text_color=8B949E&icon_color=8B9BB4&ring_color=8B9BB4" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzocavalcante-code&layout=compact&langs_count=8&hide_border=true&border_radius=6&bg_color=161B22&title_color=C9D1D9&text_color=8B949E" alt="Linguagens mais usadas">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzocavalcante-code&show_icons=true&hide_border=true&border_radius=6&bg_color=0A0A0A&title_color=FFFFFF&text_color=8A8A8A&icon_color=FFFFFF&ring_color=FFFFFF" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzocavalcante-code&layout=compact&langs_count=8&hide_border=true&border_radius=6&bg_color=0A0A0A&title_color=FFFFFF&text_color=8A8A8A" alt="Linguagens mais usadas">
 </p>
 
 ### 📈 Activity Graph
@@ -77,4 +74,4 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8B9BB4&height=110&section=footer" alt="" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=110&section=footer" alt="" width="100%">

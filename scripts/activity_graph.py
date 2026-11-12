@@ -29,10 +29,10 @@ query($login: String!) {
 """
 
 THEMES = {
-    "dark": {"bg": "#161B22", "title": "#C9D1D9", "text": "#8B949E", "grid": "#30363D",
-             "line": "#58A6FF", "point": "#58A6FF"},
-    "light": {"bg": "#F6F8FA", "title": "#1F2328", "text": "#59636E", "grid": "#D1D9E0",
-              "line": "#0969DA", "point": "#0969DA"},
+    "dark": {"bg": "#0A0A0A", "title": "#FFFFFF", "text": "#8A8A8A", "grid": "#262626",
+             "line": "#FFFFFF", "point": "#FFFFFF"},
+    "light": {"bg": "#FFFFFF", "title": "#000000", "text": "#555555", "grid": "#E5E5E5",
+              "line": "#000000", "point": "#000000"},
 }
 
 
