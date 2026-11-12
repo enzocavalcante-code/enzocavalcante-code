@@ -13,11 +13,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Coding" alt="Coding">
 </p>
 
-<p align="center">building reliable systems with clean architecture and scalable solutions.</p>
+<p align="center">Construindo sistemas confiáveis ​​com arquitetura limpa e soluções escaláveis.</p>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 Sobre mim</h2>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/about-light.png">
