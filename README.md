@@ -1,7 +1,9 @@
 <p align="center">
   <img src="assets/banner.png" alt="Paisagem em preto e branco com uma torre de observação entre montanhas e pinheiros" width="100%">
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Development+Student" alt="Just Code It">
+</p>
 <p align="center"><code>&gt;_ ­Full Stack Development Student</code></p>
 
 <p align="center">
@@ -22,7 +24,7 @@ Construindo sistemas  confiáveis, com arquitetura limpa e soluções escalávei
   <img src="assets/about-dark.png" alt="Desenho em pontilhado" width="340" align="right">
 </picture>
 
-**Enzo**, Aqui, sou um estudante do ultimo ano no curso técnico em desenvolvimento de sistemas.
+**Enzo** Aqui, sou um estudante do ultimo ano no curso técnico em desenvolvimento de sistemas.
 
 ////
 
