@@ -22,7 +22,7 @@ Construindo sistemas  confiáveis, com arquitetura limpa e soluções escalávei
   <img src="assets/about-dark.png" alt="Desenho em pontilhado" width="340" align="right">
 </picture>
 
-**Enzo** Aqui, sou um estudante do ultimo ano no curso técnico em desenvolvimento de sistemas.
+**Enzo** aqui, sou um estudante do ultimo ano no curso técnico em desenvolvimento de sistemas.
 
 ////
 
