@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner2.jpg" alt="Paisagem em preto e branco com uma torre de observação entre montanhas e pinheiros" width="100%">
+  <img src="assets/banner2.jpg" alt="Paisagem em preto e branco com uma torre de observação entre montanhas e pinheiros" width="80%">
 </p>
 
 <p align="center"><code>&gt;_ ­Full Stack Development Student</code></p>
