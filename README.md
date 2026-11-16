@@ -9,7 +9,7 @@
   <a href="mailto:enzocavalcanteprofissional@gmail.com"><img src="assets/badge-gmail.svg" alt="Gmail"></a>
 </p>
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/about-light.png">
